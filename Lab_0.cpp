@@ -1,6 +1,3 @@
-
-/* C++ program to count no of words
-from given input string. */
 #include <iostream>
 using namespace std;
 
